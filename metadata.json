@@ -4,6 +4,6 @@
   "description": "This simple GNOME Shell extension hide your keyboard layout indicator in status bar",
   "url": "https://github.com/PetrBalvin/Keyboard-Layout-Hider",
   "uuid": "keyboard-layout-hider@petrbalvin.github.com",
-  "shell-version": ["45"],
-  "version": 1
+  "shell-version": ["45, 46"],
+  "version": 2
 }
